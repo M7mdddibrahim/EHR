@@ -89,7 +89,7 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'distributedlab',
+        'NAME': 'postgresql',
         'USER': 'Mohamedibrahim',
         'PASSWORD': '01033266653',
         'HOST': 'ehrserver.postgres.database.azure.com',
